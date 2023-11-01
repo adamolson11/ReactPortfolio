@@ -1,7 +1,7 @@
 function Contact() {
 
     return (
-    <h1 className="section-title"> Home </h1>
+    <h1 className="section-title"> Contact Me </h1>
     
     )
     }

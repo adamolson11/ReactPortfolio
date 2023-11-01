@@ -1,7 +1,7 @@
 function Portfolio() {
 
     return (
-    <h1 className="section-title"> Home </h1>
+    <h1 className="section-title"> View my work </h1>
     
     )
     }
