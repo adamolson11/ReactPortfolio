@@ -11,7 +11,7 @@ function About() {
           <Card.Text>
             I am Adam Olson, a passionate web developer with a unique background. I hold a double major in Psychology and Mass Communications from the University of Wisconsin Eau Claire. Recently, I completed the edX Full Stack Web Development program, solidifying my skills in creating dynamic and user-friendly web applications. My career journey has led me to spend 5 years in product support at a fintech company, where I have had the opportunity to hone my front-end and back-end development skills.
 
-            With expertise in HTML, CSS, JavaScript, MERN stack (MongoDB, Express.js, React, Node.js), REST APIs, databases (MySQL), jQuery, GraphQL, and more, I'm well-equipped to take on web development projects from start to finish.
+            With expertise in HTML, CSS, JavaScript, MERN stack (MongoDB, Express.js, React, Node.js), REST APIs, databases (MySQL), jQuery, GraphQL, and more.well-equipped to take on web development projects from start to finish.
           </Card.Text>
         </Card.Body>
         <ListGroup variant="flush">

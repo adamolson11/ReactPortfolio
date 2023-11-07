@@ -34,8 +34,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Perform form submission logic here
-    // You can validate the form fields and display error messages if needed
+    
     const errors = {};
     if (!firstName) {
       errors.firstName = 'First name is required';
@@ -58,7 +57,7 @@ function Contact() {
     setErrors(errors);
 
     if (Object.keys(errors).length === 0) {
-      // Submit the form data
+  
       console.log('Form submitted successfully');
     }
   };
