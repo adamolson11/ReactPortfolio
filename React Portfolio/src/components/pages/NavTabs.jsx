@@ -64,7 +64,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         </Container>
       </Navbar>
       <div style={{ backgroundColor: '#EE964B' }}>
-        {/* Rest of your content */}
+        {}
       </div>
       <Navbar style={{ backgroundColor: '#156064' }} variant="dark" fixed="bottom">
         <Container>
